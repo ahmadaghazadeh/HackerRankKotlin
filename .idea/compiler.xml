@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.7">
-      <module name="My_Application.app" target="11" />
+      <module name="HackerRank.app" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

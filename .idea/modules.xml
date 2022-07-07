@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/My_Application.iml" filepath="$PROJECT_DIR$/.idea/modules/My_Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/My_Application.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/My_Application.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/My_Application.lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/My_Application.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/My_Application.lib.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/My_Application.lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/My_Application.lib.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HackerRank.iml" filepath="$PROJECT_DIR$/.idea/modules/HackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HackerRank.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HackerRank.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HackerRank.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HackerRank.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HackerRank.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HackerRank.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HackerRank.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HackerRank.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/HackerRank.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/HackerRank.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/HackerRank.lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/HackerRank.lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/HackerRank.lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/HackerRank.lib.test.iml" />
     </modules>
   </component>
 </project>
