@@ -1,21 +1,21 @@
-package ahmad.aghazadeh.hackerranck
+package com.github.ahmadaghazadeh.lib
 
+fun main() {
+    //val n = readLine()!!.trim().toInt()
 
-fun main(args: Array<String>) {
-    callDay06("Hacker")
-    callDay06("Rank")
+    //val arr = readLine()!!.trimEnd().split(" ").map{ it.toInt() }.toTypedArray()
+
+    val inputString= "1 4 3 2"
+    val arr = inputString.trimEnd().split(" ").map{ it.toInt() }.toTypedArray()
+    callDay07(arr)
 }
 
-fun callDay06(text:String){
-    var evenIndexed=""
-    var oddIndexed=""
-    for (i in text.indices){//i in 0 until text.length
-        if(i%2==0){
-            evenIndexed += text[i]
-        }else{
-            oddIndexed += text[i]
-        }
+fun callDay07(arr: Array<Int>) {
+    arr.reverse()
+    for (item in arr){
+        print("$item ")
     }
-    println("$evenIndexed $oddIndexed")
 }
+
+
 
