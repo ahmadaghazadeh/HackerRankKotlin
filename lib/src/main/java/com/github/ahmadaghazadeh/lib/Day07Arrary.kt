@@ -1,5 +1,6 @@
 package com.github.ahmadaghazadeh.lib
 
+
 fun main() {
     //val n = readLine()!!.trim().toInt()
 
