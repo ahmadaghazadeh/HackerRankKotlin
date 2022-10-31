@@ -1,7 +1,5 @@
 package com.github.ahmadaghazadeh.lib
 
-import java.time.DayOfWeek
-
 val contacts = mutableMapOf<String, Long>()
 fun main() {
 //    val n = readLine()!!.trim().toInt()

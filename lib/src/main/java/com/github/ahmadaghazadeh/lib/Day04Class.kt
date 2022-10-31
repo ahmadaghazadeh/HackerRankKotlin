@@ -10,7 +10,7 @@ fun main(args: Array<String>) {
 }
 
 fun callDay04(age:Int){
-    var person=Person(age)
+    val person=Person(age)
     person.amIOld()
     for (textCase in 1..3){
         person.yearPasses()

@@ -2,7 +2,6 @@ package com.github.ahmadaghazadeh.lib
 
 fun main() {
     val result = factorial(3)
-
     println(result)
 }
 
