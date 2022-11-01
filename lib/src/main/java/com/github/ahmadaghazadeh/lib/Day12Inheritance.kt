@@ -5,9 +5,9 @@ fun main() {
     callDay12();
 }
 fun callDay12(){
-   var student=Student("Ahmad","Aghazadeh",123, arrayOf(50,80))
+    val student=Student("Ahmad","Aghazadeh",123, arrayOf(50,80))
     student.printPerson()
-    var grade=student.Calculate()
+    val grade=student.Calculate()
     println("Grade: $grade\n")
 
 }
