@@ -2,11 +2,7 @@ package com.github.ahmadaghazadeh.lib
 
 import java.lang.Exception
 
-// Solution 1 :
-// To find max and mix number in array and Abs(max-min)
 
-// Solution 2 :
-// Sort the array then last element - first element
 fun main() {
     callDay17();
 }
